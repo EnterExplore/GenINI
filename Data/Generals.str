@@ -35783,3 +35783,15 @@ END
 CONTROLBAR:ToolTipConstructPDLTower
 "Advanced defense. \n Intercepts missiles within its radius. \n \n Power Required: 8"
 END
+
+
+
+
+
+CONTROLBAR:ToolTipSelectCommandCenterDrone
+"Switch command bar to launch general's power."
+END
+
+CONTROLBAR:SelectCommandCenterDrone
+"General's Power List"
+END

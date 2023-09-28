@@ -35795,3 +35795,15 @@ END
 CONTROLBAR:SelectCommandCenterDrone
 "General's Power List"
 END
+
+CONTROLBAR:ToolTipGLABuildJunkBunkerChem
+"Can hold 6 soldiers. \n Heals soldiers inside. \n Deploy anthrax under enemies'feet."
+END
+
+CONTROLBAR:ToolTipGLABuildJunkBunkerDemo
+"Can hold 6 soldiers. \n Heals soldiers inside. \n Has high explosion potential."
+END
+
+CONTROLBAR:ToolTipGLABuildJunkBunkerSlth
+"Small, fragile, but stealthed. \nCan hold 4 soldiers. \n Heals soldiers inside. \n Camouflaged once constructed."
+END

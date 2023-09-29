@@ -35805,5 +35805,13 @@ CONTROLBAR:ToolTipGLABuildJunkBunkerDemo
 END
 
 CONTROLBAR:ToolTipGLABuildJunkBunkerSlth
-"Small, fragile, but stealthed. \nCan hold 4 soldiers. \n Heals soldiers inside. \n Camouflaged once constructed."
+"Small, fragile, but stealthed. \n Can hold 4 soldiers. \n Heals soldiers inside. \n Camouflaged once constructed."
+END
+
+CONTROLBAR:ContaminationCleanseBomb
+"&Anti-Contamination Bomb"
+END 
+
+CONTROLBAR:TooltipContaminationCleanseBomb
+"Drop a cleaner bomb at target location.\nCan remove radiation & toxin.\nBlocks further ground contamination.\n\nCooldown Timer:  5:00"
 END

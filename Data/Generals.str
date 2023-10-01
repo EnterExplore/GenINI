@@ -2679,7 +2679,11 @@ CONTROLBAR:TooltipFireSpyDrone
 END
 
 CONTROLBAR:TooltipFireSpySatScan
-"Reveal target area. Spot hidden units. \n \n Countdown Timer: 1:00"
+"Reveal target area. Spot hidden units. \n \n Countdown Timer: 1:20"
+END
+
+CONTROLBAR:TooltipFireHackSpySatScan
+"Reveal target area. Spot hidden units. \n \n Countdown Timer: 0:30"
 END
 
 CONTROLBAR:TooltipFireSuperWeaponCashHack
@@ -35813,5 +35817,13 @@ CONTROLBAR:ContaminationCleanseBomb
 END 
 
 CONTROLBAR:TooltipContaminationCleanseBomb
-"Drop a cleaner bomb at target location.\nCan remove radiation & toxin.\nBlocks further ground contamination.\n\nCooldown Timer:  5:00"
+"Drop a cleaner bomb at target location.\nCan remove radiation & toxin.\nBlocks further ground contamination.\n\nCountdown Timer: 5:00"
 END
+
+CONTROLBAR:ClusterBombAirstrike
+"Airstrike"
+END 
+
+CONTROLBAR:TooltipFireClusterBombAirstrike
+"Call in an Aurora to bombard area\n  with cluster bombs.\nStrong vs. ground units.\nWeak vs. structures.\n\nCountdown Timer: 3:30"
+END 

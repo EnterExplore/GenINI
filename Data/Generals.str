@@ -35827,3 +35827,15 @@ END
 CONTROLBAR:TooltipFireClusterBombAirstrike
 "Call in an Aurora to bombard area\n  with cluster bombs.\nStrong vs. ground units.\nWeak vs. structures.\n\nCountdown Timer: 2:00"
 END 
+
+UPGRADE:BunkerMissileJammer
+"Bunker Missile Jammer"
+End 
+
+CONTROLBAR:UpgradeChinaBunkerMissileJammer
+"&Bunker Missile Jammer"
+End 
+
+CONTROLBAR:ToolTipUpgradeChinaBunkerMissileJammer
+"Install a missile jammer to this bunker."
+End 

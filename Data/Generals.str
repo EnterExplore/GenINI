@@ -35800,6 +35800,7 @@ CONTROLBAR:SelectCommandCenterDrone
 "General's Power List"
 END
 
+
 CONTROLBAR:ToolTipGLABuildJunkBunkerChem
 "Can hold 6 soldiers. \n Heals soldiers inside. \n Deploy anthrax under enemies'feet."
 END
@@ -35812,6 +35813,7 @@ CONTROLBAR:ToolTipGLABuildJunkBunkerSlth
 "Small, fragile, but stealthed. \n Can hold 4 soldiers. \n Heals soldiers inside. \n Camouflaged once constructed."
 END
 
+
 CONTROLBAR:ContaminationCleanseBomb
 "&Anti-Contamination Bomb"
 END 
@@ -35820,6 +35822,7 @@ CONTROLBAR:TooltipContaminationCleanseBomb
 "Drop a cleaner bomb at target location.\nCan remove radiation & toxin.\nBlocks further ground contamination.\n\nCountdown Timer: 5:00"
 END
 
+
 CONTROLBAR:ClusterBombAirstrike
 "Airstrike"
 END 
@@ -35827,6 +35830,7 @@ END
 CONTROLBAR:TooltipFireClusterBombAirstrike
 "Call in an Aurora to bombard area\n  with cluster bombs.\nStrong vs. ground units.\nWeak vs. structures.\n\nCountdown Timer: 2:00"
 END 
+
 
 UPGRADE:BunkerMissileJammer
 "Bunker Missile Jammer"
@@ -35839,3 +35843,31 @@ End
 CONTROLBAR:ToolTipUpgradeChinaBunkerMissileJammer
 "Install a missile jammer to this bunker."
 End 
+
+
+UPGRADE:ConcentratedNapalm
+"Improved Napalm"
+End 
+
+CONTROLBAR:UpgradeChinaConcentratedNapalm
+"&Improved Napalm"
+End 
+
+CONTROLBAR:TooltipUpgradeChinaConcentratedNapalm
+"Extend all flame's lifetime.\n\nFirewall  +100% range.\nFirefield & firestorm +50% Duration.\nFire stream reaches Further."
+End
+
+
+
+OBJECT:LineCrackerCannon
+"Line Cracker"
+End 
+
+CONTROLBAR:ConstructChinaLineCracker
+"Line &Cracker"
+End
+
+CONTROLBAR:ToolTipChinaLineCracker
+"Modified Inferno Cannon. \nEquipped with seismic shells. \nDeals damage in large area. \nSends ground units flying. \n\nStrong vs. Ground units, Structures \nWeak vs. Aircraft"
+End
+

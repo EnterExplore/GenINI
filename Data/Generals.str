@@ -35871,3 +35871,25 @@ CONTROLBAR:ToolTipChinaLineCracker
 "Modified Inferno Cannon. \nEquipped with seismic shells. \nDeals damage in large area. \nSends ground units flying. \n\nStrong vs. Ground units, Structures \nWeak vs. Aircraft"
 End
 
+
+
+OBJECT:ChinaHospital
+"Metahuman Research Facility"
+End
+
+CONTROLBAR:ConstructChinaHospital
+"Metahuman Research &Facility"
+End 
+
+CONTROLBAR:ToolTipChinaHospital
+"Can train infantry squads & super soldiers.\nReduces the cost of infantry training.\nProvides all infantry units with auto-healing."
+End 
+
+
+CONTROLBAR:ConstructChinaInfantryIronDragon
+"&Iron Dragon "
+End 
+
+CONTROLBAR:ToolTipChinaInfantryIronDragon
+"Genetically modified super soldiers. \nArmed with an anti-tank auto-cannon and ECM Disabler. \n \nStrong vs. Tanks, structures \nWeak vs. Aircraft, Infantry"
+End

@@ -35854,7 +35854,7 @@ CONTROLBAR:UpgradeChinaConcentratedNapalm
 End 
 
 CONTROLBAR:TooltipUpgradeChinaConcentratedNapalm
-"Extend all flame's lifetime.\n\nFirewall  +100% range.\nFirefield & firestorm +50% Duration.\nFire stream reaches Further."
+"Extend all flame's lifetime.\n\nFirewall  +100% range.\nFirefield & firestorm +50% Duration.\nFire stream reaches Farther."
 End
 
 
@@ -35893,3 +35893,17 @@ End
 CONTROLBAR:ToolTipChinaInfantryIronDragon
 "Genetically modified super soldiers. \nArmed with an anti-tank auto-cannon and ECM Disabler. \n \nStrong vs. Tanks, structures \nWeak vs. Aircraft, Infantry"
 End
+
+
+
+CONTROLBAR:DirtyBomb
+"Dirty Bomb "
+End 
+
+CONTROLBAR:ToolTipDirtyBomb 
+"Drops a dirty bomb at target location. \nContaminates large area with radiation. \n\nStrong vs. Ground Units.\n Cooldown Timer: 5:00"
+End 
+
+CONTROLBAR:TooltipFireDirtyBomb
+"Drops a dirty bomb at target location.\n Cooldown Timer: 5:00"
+End 
